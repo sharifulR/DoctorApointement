@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199575966577",
+    "project_id": "doctorapointement",
+    "storage_bucket": "doctorapointement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199575966577:android:00dc694af70484ce9a9cd0",
+        "android_client_info": {
+          "package_name": "com.example.doctorapointement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199575966577-nh22js3du8m7v5dm8fsa37027olo32vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgW9aYUq9_xLeRU9SluLJc1fbv1qwuQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199575966577-nh22js3du8m7v5dm8fsa37027olo32vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

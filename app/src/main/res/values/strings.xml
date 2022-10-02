@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DoctorApointement</string>
+    <string name="enter_email">Enter email</string>
+
+    <string-array name="timefroms">
+        <item>Select time you are available</item>
+        <item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 PM</item>
+        <item>2-4 PM</item>
+        <item>4-6 PM</item>
+    </string-array>
+    <string-array name="departments">
+        <item>Select department</item>
+        <item>Dentistry</item>
+        <item>Surgery</item>
+    </string-array>
+    <string-array name="specialization">
+        <item>Select specialization</item>
+        <item>General</item>
+        <item>Periodontist</item>
+    </string-array>
+</resources>
